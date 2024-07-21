@@ -13,7 +13,7 @@ We aim to spread Ethereum adoption because we dream of a world where everyone ha
 
 We welcome all contributions, whether proposing new features, reporting bugs, submitting fixes, updating documentation, and more.
 
-You can find helpful notes and a contributing guide to help you get started <a href="https://github.com/2077-Collective/Support">here</a>
+You can find helpful notes and a contributing guide to help you get started <a href="https://github.com/2077-Collective/Contributing">here</a>
 
 <br> 
 
