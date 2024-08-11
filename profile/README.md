@@ -1,6 +1,6 @@
 <div align="center">
-   <img src="https://github.com/2077-Collective/.github/assets/46662771/714b9912-cd8d-407f-8617-c38fc76a475b.png" alt="2077collective banner" />
-  <h1>Welcome to 2077 Collective</h1>
+   <h1>Welcome to 2077 Collective</h1>
+   <img src="https://github.com/user-attachments/assets/278f644d-b9ba-4ba4-99fb-11b2d440bc73" alt="2077collective banner" />   
 </div>
 
 <p align="left">2077 Collective is a group of community-driven and passionate Ethernauts, who believe that crypto has the potential to give people across the world unprecedented levels of freedom and autonomy.
